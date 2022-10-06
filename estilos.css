@@ -1,0 +1,21 @@
+.titulo
+{color:rgb(27, 27, 92);
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;
+}
+.titulo2
+{color: rgb(9, 9, 147);
+font-family: 'Times New Roman', Times, serif;
+font-weight: 600;}
+.parrafo
+{color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.parrafo2  
+{color: rgb(55, 1, 1);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+.enlace{
+    background-color: blueviolet;
+    color: rgb(18, 7, 7);
+    font-size: medium; 
+}
